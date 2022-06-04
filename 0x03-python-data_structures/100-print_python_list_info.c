@@ -1,4 +1,4 @@
-#include <Phyton.h>
+#include <Python.h>
 #include <stdio.h>
 
 /**
@@ -18,7 +18,7 @@ void print_item_info(PyObject *prmItem, int prmItemIndex)
 
 /**
  * print_python_list_info - display all itemm informations from one python
- * 		object
+ * object
  *
  * @p: Python object
  */
